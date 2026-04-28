@@ -27,5 +27,5 @@ Movie Library - это GUI-приложение для управления ли
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com//movie-library.git
+git clone https://github.com/qw1n1337/python-movie-library.git
 cd movie-library
